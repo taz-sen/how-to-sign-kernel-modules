@@ -1,3 +1,4 @@
 # Site settings - https://jekyllrb.com/docs/configuration/settings/
 # - https://github.com/jekyll/jekyll/blob/master/docs/_docs/configuration.md
+# - https://jekyllrb.com/docs/configuration/front-matter-defaults/
 theme: jekyll-theme-cayman
