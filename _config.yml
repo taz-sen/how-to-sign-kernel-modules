@@ -1,2 +1,3 @@
 # Site settings - https://jekyllrb.com/docs/configuration/settings/
+# - https://github.com/jekyll/jekyll/blob/master/docs/_docs/configuration.md
 theme: jekyll-theme-cayman
